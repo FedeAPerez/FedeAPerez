@@ -15,5 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+My Blog: http://www.perstechtive.com/
+
+## YouTube Videos
+- https://www.youtube.com/watch?v=yZiP0K9x6zM&t=47s
+
 ## Former Jobs
 - SR Software Engineer at https://github.com/mercadolibre
