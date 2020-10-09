@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 ## Former Jobs
-- SR SW Engineer at https://github.com/mercadolibre
+- SR Software Engineer at https://github.com/mercadolibre
