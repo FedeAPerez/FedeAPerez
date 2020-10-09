@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Former Jobs
-SR SW Engineer at @mercadolibre
+## Former Jobs
+- SR SW Engineer at https://github.com/mercadolibre
