@@ -10,5 +10,6 @@
 ## Projects
 - [My own SSR Template](https://github.com/FedeAPerez/ssr-template)
 
-## Former Jobs
-- SR Software Engineer at [MercadoLibre](https://github.com/mercadolibre)
+## Jobs
+- Current - SR Software Engineer at [IPSY](https://www.ipsy.com/) - Beauty subscription service in the US
+- SR Software Engineer at [MercadoLibre](https://www.mercadolibre.com.ar/) - Biggest e-commerce platform in LATAM.
