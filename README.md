@@ -10,6 +10,7 @@
 ## Projects
 - [My own SSR Template](https://github.com/FedeAPerez/ssr-template)
 - [AMP CI in GitHub Actions](https://github.com/FedeAPerez/amp-ci)
+- [My own UI Lib with A11Y focus](https://github.com/FedeAPerez/ay-ui#readme)
 
 ## Jobs
 - Current - SR Software Engineer at [IPSY](https://www.ipsy.com/) - Beauty subscription service in the US
