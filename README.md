@@ -13,6 +13,7 @@
 - [UI Lib with A11Y focus](https://github.com/FedeAPerez/ay-ui#readme) very small UI lib for my projects. Feel free to use it!
 
 ## Jobs
-- Current - SR Software Engineer at [IPSY](https://www.ipsy.com/) - Beauty subscription service in the US.
+- SR Software Engineer at [PayPal](https://www.paypal.com/) - CheckOut & Development platform for one of the largest payments solutions on the world.
+- SR Software Engineer at [IPSY](https://www.ipsy.com/) - Beauty subscription service in the US.
 - SR Software Engineer at [MercadoLibre](https://www.mercadolibre.com.ar/) - Biggest e-commerce platform in LATAM.
 - SSR Software Engineer at [Accenture](https://www.accenture.com/ar-es) - For one of the largest finance companies in Argentina.
